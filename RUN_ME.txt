@@ -1,0 +1,26 @@
+========================================
+  AI Waste Project - Run Instructions
+========================================
+
+FOLDER PATH:
+C:\Users\Asus\Desktop\SIH_Waste_Segregation\AI_Waste_Project
+
+========================================
+STEPS:
+========================================
+
+1. Open Command Prompt (Win+R, type cmd, Enter)
+
+2. Go to folder:
+   cd C:\Users\Asus\Desktop\SIH_Waste_Segregation\AI_Waste_Project
+
+3. Install packages (first time only):
+   pip install flask pandas scikit-learn
+
+4. Run the app:
+   python app.py
+
+5. Open browser:
+   http://127.0.0.1:5000
+
+========================================

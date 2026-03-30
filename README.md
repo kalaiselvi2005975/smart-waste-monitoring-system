@@ -1,4 +1,5 @@
 ♻️ Smart IoT Waste Classification & Monitoring System
+
 📌 Project Overview
 
 The Smart IoT Waste Classification and Monitoring System is an intelligent solution designed to automate waste segregation and monitor waste generation in real time.
